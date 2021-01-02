@@ -3,3 +3,5 @@ dist
 .coverage
 *.extracted
 *.pyc
+1.hd
+*.hd
